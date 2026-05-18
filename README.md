@@ -1,2 +1,1 @@
-# Retail-Sales-Python
-analysing the retail sales dataset
+Learning python as a beginner
