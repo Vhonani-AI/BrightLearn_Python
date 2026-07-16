@@ -1,5 +1,3 @@
-**## Growing into Data: My Learning Journey**
-
 Welcome to my Python repository. This space is a personal record of my journey as I grow into the world of data. I am using Python as my primary tool to explore how data can be organized, analyzed, and used to predict future outcomes. This repository is not just about code; it is about my progress in understanding the stories that data can tell.
 
 ## Featured Project: Patient Readmission Prediction
